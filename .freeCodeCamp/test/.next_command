@@ -77,3 +77,4 @@ echo
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
