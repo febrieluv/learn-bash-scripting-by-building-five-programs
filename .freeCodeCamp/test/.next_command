@@ -101,3 +101,4 @@ help if
 ./coundown.sh arg3
 ./countdown.sh arg3
 ./countdown.sh 4
+./countdown.sh 5
