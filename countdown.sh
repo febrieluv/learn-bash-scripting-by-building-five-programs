@@ -4,14 +4,10 @@
 echo -e "\n~~ Countdown Timer ~~\n"
 if [[ $1 -gt 0 ]]
 then
-: '
-for (( i = $1; i >= 0; i-- ))
+while [[ $I -ge 0 ]]
 do
-  echo $i
-  sleep 1
+  echo $I
 done
-'
-I=$1
 else
   echo Include a positive integer as the first argument.
   
