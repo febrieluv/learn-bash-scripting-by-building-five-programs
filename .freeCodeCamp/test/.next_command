@@ -134,3 +134,4 @@ bad_file.txt
 [[ -x bad_file.txt ]]
 [[ -x countdown.sh ]]
 help [[
+[[ -x countdown.sh && 5 -le 4 ]]
