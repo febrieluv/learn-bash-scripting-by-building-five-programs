@@ -76,3 +76,4 @@ QUESTION1="What's your name?"
 echo
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
