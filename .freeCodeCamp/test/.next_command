@@ -125,3 +125,4 @@ bad_command
 ls --color=auto
 ls --color=auto -l
 ls --color=auto
+ls --color=auto -y
