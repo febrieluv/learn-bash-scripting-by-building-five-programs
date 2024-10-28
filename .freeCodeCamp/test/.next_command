@@ -106,3 +106,5 @@ help
 help name
 help [[expression]]
 help [[ expression ]]
+help
+help test
