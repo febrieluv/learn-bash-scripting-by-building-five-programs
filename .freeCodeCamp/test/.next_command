@@ -98,3 +98,5 @@ man if
 help if
 ./countdown.sh arg1
 ./countdown.sh arg2
+./coundown.sh arg3
+./countdown.sh arg3
